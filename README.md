@@ -1,7 +1,7 @@
 # Wallpapers
 My Collection of PC Wallpapers.
 
-It mostly consists of digital art. I update it weekly.
+It mostly consists of digital art.
 
 # Want to get latest wallpapers from repository?
 1. Download [git](https://git-scm.com/) on your system
@@ -10,16 +10,16 @@ It mostly consists of digital art. I update it weekly.
 ```shell
 git clone https://github.com/Ishgar14/Wallpapers.git
 ```
-This will download all the wallpapers in current working directory
+This will download all the wallpapers with folder name of `Wallpapers` in current working directory
 
 ---
 
-To keep updating your wallpapers run
+To keep updating your wallpapers run the following command occasionally
 ```shell
 git pull origin main
 ```
 
-# Source
+# Sources
 Most of the wallpapers I got are from [r/wallpaper](https://www.reddit.com/r/wallpaper/) and [r/wallpapers](https://www.reddit.com/r/wallpapers)
 
 # Sample Images
