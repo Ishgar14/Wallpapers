@@ -3,6 +3,9 @@ My Collection of PC Wallpapers.
 
 It mostly consists of digital art.
 
+# Repo Views
+![](https://count.getloli.com/get/@IshgarWallpapers)
+
 # Want to get latest wallpapers from repository?
 1. Download [git](https://git-scm.com/) on your system
 2. Run the following command in your terminal
@@ -20,7 +23,7 @@ git pull origin main
 ```
 
 # Sources
-Most of the wallpapers I got are from [r/wallpaper](https://www.reddit.com/r/wallpaper/) and [r/wallpapers](https://www.reddit.com/r/wallpapers)
+Most of the wallpapers I got are from [r/wallpaper](https://www.reddit.com/r/wallpaper/), [r/wallpapers](https://www.reddit.com/r/wallpapers) and [wallhaven](https://wallhaven.cc/)
 
 # Sample Images
 ![](astronaut-3840x2160.png)
