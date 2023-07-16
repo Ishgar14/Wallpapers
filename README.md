@@ -7,20 +7,9 @@ It mostly consists of digital art.
 ![](https://count.getloli.com/get/@IshgarWallpapers)
 
 # Want to get latest wallpapers from repository?
-1. Download [git](https://git-scm.com/) on your system
-2. Run the following command in your terminal
+You may not be able to download the entire repository due to ref errors from github
 
-```shell
-git clone https://github.com/Ishgar14/Wallpapers.git
-```
-This will download all the wallpapers with folder name of `Wallpapers` in current working directory
-
----
-
-To keep updating your wallpapers run the following command occasionally
-```shell
-git pull origin main
-```
+Download the repo from [here](https://drive.google.com/drive/folders/1ziObryQ7sYyE0lbQ1n2Cr8hHJCP609Du?usp=sharing)
 
 # Sources
 Most of the wallpapers I got are from [r/wallpaper](https://www.reddit.com/r/wallpaper/), [r/wallpapers](https://www.reddit.com/r/wallpapers) and [wallhaven](https://wallhaven.cc/)
